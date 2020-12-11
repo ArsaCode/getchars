@@ -37,6 +37,7 @@ def fileToChar(input):
     f = open(cwd + "/" + input, "r")
     content = f.read()
     output = " ".join(re.findall("[a-zA-Z]+", content))
+    f.close()
     print(output)
     sys.exit(0)
 

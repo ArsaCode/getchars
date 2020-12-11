@@ -28,7 +28,7 @@ python3 getchars.py
 
 * Website: https://arsadevs.com
 * GitHub: [@ArsaDevs](https://github.com/ArsaDevs)
-* LinkedIn: [@Arsalan Ghassemi](https://linkedin.com/in/Arsalan Ghassemi)
+* LinkedIn: [@Arsalan Ghassemi](https://linkedin.com/in/aghassemi1)
 
 ## 🤝 Contributing
 
